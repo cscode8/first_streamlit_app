@@ -70,23 +70,3 @@ if streamlit.button('Add a Fruit to List'):
         my_cnx.close()    
         streamlit.text(back_from_function)
         
-        
-        
-        
-        
-        
-        
-/*streamlit security
-
-[snowflake]
-user = "Harish"
-password = "Uxli@1234"
-account = "fu71774.ap-south-1"
-warehouse = "compute_wh"
-database = "pc_rivery_db" 
-schema = "public"*/     
-
-/*another python file
-#requirements.txt
-snowflake-connector-python*/
-
