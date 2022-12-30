@@ -1,4 +1,4 @@
 # requirements.txt
 import snowflake.connector
-cffi==1.15.0
+/home/appuser/venv/bin/python -m pip install --upgrade pip
 
